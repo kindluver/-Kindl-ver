@@ -6,7 +6,7 @@
   "repository": "https://github.com/Demon-Slayer2/DEMONS-SLAYER-XMD",
   "stack": "container",
   "env": { 
-      "SESSION_ID": {
+      "SESSION_ID": {Demo-Slayer~oEQTwQSS#r0Q4XXLtMmnP9vxM5kaH7fHLFLsBfal9jo1KwnXN3mI
       "description": "your session id",
       "required": true,
       "value": ""
@@ -29,7 +29,7 @@
     "AUTOLIKE_EMOJI": {
       "description": "Input your custom status like emoji else leave blank to use default => 🫨",
       "required": false,
-      "value": "🫨"
+      "value": "✨"
       },
     "AUTO_REACT": {
       "description": "make it true if you want a bot to react on messages",
